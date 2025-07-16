@@ -1,4 +1,4 @@
-## Hi there 👋 I'm yoshio1949! I'm newbie!
+## Hi there 👋 I'm satbunch! I'm newbie!
 
 <p align="left">
   <a href="https://github.com/satbunch/yoshio1949/">
